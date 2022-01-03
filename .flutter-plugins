@@ -1,6 +1,8 @@
 # This is a generated file; do not edit or check into version control.
 firebase_core=D:\\Desenvolvimento\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-1.10.6\\
 firebase_core_web=D:\\Desenvolvimento\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-1.5.3\\
+google_sign_in=D:\\Desenvolvimento\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-5.2.1\\
+google_sign_in_web=D:\\Desenvolvimento\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in_web-0.10.0+3\\
 path_provider=D:\\Desenvolvimento\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-2.0.8\\
 path_provider_android=D:\\Desenvolvimento\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_android-2.0.11\\
 path_provider_ios=D:\\Desenvolvimento\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_ios-2.0.7\\
